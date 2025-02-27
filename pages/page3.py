@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder
 from io import BytesIO
 
-st.title("特徴量エンジニアリングアプリ")
+st.title("データ前処理アプリ")
 
 # CSV アップロード
 uploaded_file = st.file_uploader("CSVファイルをアップロードしてください", type=["csv"])

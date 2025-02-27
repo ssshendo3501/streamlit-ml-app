@@ -13,7 +13,7 @@ from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, Grad
 from sklearn.metrics import mean_squared_error, accuracy_score, f1_score, roc_curve, auc, confusion_matrix
 
 # Streamlitアプリのタイトル
-st.title("機械学習モデルのトレーニング＆評価")
+st.title("機械学習モデルトレーニング＆評価アプリ")
 
 # CSVファイルのアップロード
 uploaded_file = st.file_uploader("CSVファイルをアップロード", type=["csv"])
