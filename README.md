@@ -5,3 +5,6 @@ Streamlitで作成したデータサイエンティストが汎用的に活用�
 - page2: 住宅価格予測アプリ
 - page3: データ前処理アプリ
 - page4: 機械学習モデルトレーニング&評価アプリ
+
+デプロイしたアプリは以下。
+https://app-ml-app-vbbqkxk3qqz58h3mnzbtwp.streamlit.app/
