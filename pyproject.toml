@@ -3,7 +3,7 @@ name = "streamlit-eda-app"
 version = "0.1.0"
 description = "EDA & Data Visualization App using Streamlit"
 authors = [
-    {name = "ssshendo3501",email = "ssshenendo3501@gmail.com"}
+    {name = "xxxx",email = "xxxx@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
@@ -26,3 +26,6 @@ pytest = ">=8.3.4,<9.0.0"
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
